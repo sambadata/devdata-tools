@@ -20,3 +20,6 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+* [doc1](doc1.md)
+* [doc2](doc2.md)

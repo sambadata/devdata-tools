@@ -7,8 +7,9 @@
    :caption: Guide:
 
    pages/readthedocs
-   pages/doc1.modindex
+   pages/doc1.md
    pages/doc2.md
+   pages/test.md
 
 
 
