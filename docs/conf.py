@@ -14,6 +14,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+    
 
 # -- Project information -----------------------------------------------------
 
@@ -34,12 +35,8 @@ extensions = ['recommonmark','sphinx_rtd_theme']
 
 # sambacisse : use Markdown files with extensions other than .md
 
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.txt': 'markdown',
-    '.md': 'markdown',
-}
-
+source_suffix = ['.rst', '.md']
+    
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
